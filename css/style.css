@@ -448,6 +448,8 @@ sup {
   overflow: visible;
   width: 100%;
   opacity: 0;
+  background-image: url('../img/background.jpg');
+  background-repeat: no-repeat;
 }
 
 .overlay {
