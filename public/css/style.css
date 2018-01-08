@@ -566,8 +566,8 @@ sup {
   width: 50%;
   height: 100%;
   opacity: 0;
-  -webkit-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
-  transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
+  -webkit-transition: all 0.7s cubic-bezier(0, 0, 0.58, 1);
+  transition: all 0.7s cubic-bezier(0, 0, 0.58, 1);
 }
 
 #left-side .content {
