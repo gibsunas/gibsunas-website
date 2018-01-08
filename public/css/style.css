@@ -1636,6 +1636,10 @@ footer p {
   background-color: #FFFFFF;
 }
 
+.img-responsive {
+  min-width: 100%;
+}
+
 /* ------------------------------------- */
 /* VARIANT SMOOTH BUBBLES .............. */
 /* ------------------------------------- */
